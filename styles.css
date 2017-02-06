@@ -11,5 +11,11 @@ nav a {
 
 a:hover {
   color: tomato;
+  background-color: goldenrod;
+}
+
+a:active {
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
