@@ -1,0 +1,21 @@
+body {
+  background-color: teal;
+}
+
+nav li,
+nav a {
+  text-decoration: none;
+  display: inline;
+  color: navajowhite;
+}
+
+a:hover {
+  color: tomato;
+  background-color: goldenrod;
+}
+
+a:active {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
